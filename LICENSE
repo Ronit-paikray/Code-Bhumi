@@ -1,4 +1,19 @@
-                    GNU GENERAL PUBLIC LICENSE
+# Code Bhumi Chrome Extension
+
+**Code Bhumi Chrome Extension** is an open-source project developed by [Ronit Paikray](https://github.com/RonitPaikray). The project aims to provide users with a robust and customizable Chrome extension.
+
+## License
+This repository is licensed under the GNU General Public License v3.0. See the LICENSE file for more information.
+
+### Additional Details:
+- **Attribution**: Users must attribute the original author (Ronit Paikray) in a clear and visible manner.
+- **Use of Original License**: Modifications must retain the original GPL-3.0 license.
+- **No Selling or Closed Source Redistribution**: The code cannot be sold or used for closed-source purposes.
+- **Open Source Requirement**: Modified versions must remain open-source.
+- **Name Attribution**: The "Code Bhumi Chrome extension" name can be used, but derivative works should not use any confusingly similar name without proper attribution.
+
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
